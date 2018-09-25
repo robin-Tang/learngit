@@ -1,0 +1,2 @@
+today is september 25th.
+new learning content of git!
